@@ -4,6 +4,7 @@ annotated-types==0.6.0
 anyio==4.3.0
 appnope==0.1.4
 asttokens==2.4.1
+async-timeout==4.0.3
 asyncio==3.4.3
 attrs==23.2.0
 certifi==2024.2.2
@@ -15,6 +16,7 @@ debugpy==1.8.1
 decorator==5.1.1
 deepgram-sdk==3.1.4
 distro==1.9.0
+exceptiongroup==1.2.2
 executing==2.0.1
 frozenlist==1.4.1
 gevent==24.2.1
@@ -53,10 +55,12 @@ prompt-toolkit==3.0.43
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pvcobra==2.0.3
 PyAudio==0.2.14
 pycparser==2.21
 pydantic==2.6.2
 pydantic_core==2.16.3
+pydub==0.25.1
 pygame==2.5.2
 Pygments==2.17.2
 python-dateutil==2.8.2
